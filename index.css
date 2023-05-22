@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>cricket</title>
+    <link href="styles.css" rel="stylesheet"/>
+  </head>
+  <body>
+      <div class="menu">
+      <main>
+        <h1>CRICKET ND TFI</h1>
+        
+        <hr>
+        <section>
+        <h3>Cricket</h3>
+        <article class='item'>
+        <table>
+          <tr>
+            <th class='no'>special</th>
+          
+            <th class='no'>player</th>
+            <th class='no'>nick name</th>
+            </tr>
+            <tr>
+              <td class='no'>pull shot</td>
+              <td class='no'>Rohit</td>
+              <td class='no'>Hitman</td>
+              </tr>
+              <tr>
+              <td class='no'>360deg</td>
+              <td class='no'>ABD</td>
+              <td class='no'>Alien</td>
+              </tr>
+              <tr>
+                <td class='no'>Helicopter shot</td>
+              <td class='no'>Dhoni</td>
+              <td class='no'>Captain Cool</td>
+              </tr>
+              <tr>
+                <td class='no'>Cover Drive</td>
+              <td class='no'>Kohli</td>
+              <td class='no'>King</td>
+              </tr>
+              </table>
+              </article>
+              </section>
+              <section>
+                <hr>
+                <h3>TFI</h3>
+                <article class='item'>
+                  <table>
+                    <tr>
+                      <th class='no'>Actor</th>
+                      <th class='no'>Nick Name</th>
+                      <th class='no'>No.of Industry Hits</th>
+                      </tr>
+                      <tr>
+                        <td class='no'>Tarak</td>
+<td class='no'>Young Tiger</td>
+<td class='no'>2</td>
+</tr>
+<tr>
+                        <td class='no'>Prabahas</td>
+<td class='no'>Darling</td>
+<td class='no'>2</td>
+</tr>
+<tr>
+                        <td class='no'>Pawan Kalyan</td>
+<td class='no'>Power Star</td>
+<td class='no'>2</td>
+</tr>
+<tr>
+                        <td class='no'>Allu Arjun</td>
+<td class='no'>Stylish Star</td>
+<td class='no'>1</td>
+</tr>
+</table>
+</article>
+</section>
+</main>
+
+          <hr class='bottom-line'>
+          <footer>
+          <p>for more info and videos
+            <a href='https://www.youtube.com/@starsports'target='_blank'>visit my channel</a></p>
+            <p>designed by a fan boy of cricket and movies</p>
+            </footer>
+    </div>
+  </body>
+</html>
+            
+
+
